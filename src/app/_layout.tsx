@@ -64,3 +64,4 @@ function RootLayoutNav() {
     </GestureHandlerRootView>
   );
 }
+// Get data from rest api
